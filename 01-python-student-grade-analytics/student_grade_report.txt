@@ -1,0 +1,19 @@
+STUDENT GRADE ANALYTICS REPORT
+===================================
+
+Ranking
+-------
+1. Nusrat (S003) - Average: 90.2 - Grade: A+
+2. Tafy (S005) - Average: 86.6 - Grade: A
+3. Ayesha (S001) - Average: 84.8 - Grade: B+
+4. Sadia (S006) - Average: 80.0 - Grade: B+
+5. Karim (S002) - Average: 75.6 - Grade: B
+6. Rahim (S004) - Average: 69.2 - Grade: C
+
+Course Statistics
+-----------------
+programming: mean=82.17, median=84.5, min=65.0, max=93.0, std=9.55
+data_structure: mean=79.33, median=80.5, min=69.0, max=89.0, std=7.32
+algorithm: mean=80.5, median=81.0, min=70.0, max=90.0, std=7.32
+database: mean=82.33, median=82.5, min=74.0, max=91.0, std=5.88
+statistics: mean=81.0, median=82.0, min=68.0, max=92.0, std=7.28
